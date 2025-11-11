@@ -1,6 +1,7 @@
 # File Name Manager (Python)
 
 A small cross-platform file renaming tool ported from my C# project to Python.
+I wrote this to learn more about Python. In my Tests all functions worked very well.
 
 
 Batch-rename files inside a local `Files/` directory using single or chained operations.  
@@ -23,6 +24,7 @@ Designed for fast cleanup of file names for cross-OS compatibility, formatting, 
 - Bulk formatting after exports, downloads, or backups
 
 
+## Screenshots
 ![Pic1](screenshots/1.png)
 
 
